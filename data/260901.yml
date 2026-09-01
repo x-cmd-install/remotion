@@ -1,0 +1,74 @@
+about:
+  description: 🎥      Make videos programmatically with React
+  license: NOASSERTION
+  homepage: https://remotion.dev
+  head: aa8cf57
+  archived: false
+  latestVersion: v4.0.519
+  collectedAt: 2026-09-01T05:28:22Z
+timeline:
+  created: 2020-06-23
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 57906
+  watcher: 171
+  fork: 4401
+  release: 678
+  contributor: 385
+  pullRequest: 632
+  issue: 3813
+language:
+  TypeScript: 43704477
+  PHP: 5730094
+  MDX: 3795091
+  JavaScript: 2604148
+  Rust: 157166
+  Python: 89780
+  CSS: 80855
+  Go: 48231
+  Shell: 16396
+  Ruby: 15132
+  C++: 10014
+  HTML: 5382
+  Dockerfile: 2573
+  Nix: 2460
+  HCL: 1826
+  Rich Text Format: 1361
+  Astro: 686
+  Swift: 210
+  SCSS: 206
+totalLine: 56266088
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 16
+    mergedPR: 581
+    openPR: 7
+    closedIssue: 206
+    openIssue: 40
+    commit: 931
+  last90d:
+    since: 2026-06-03
+    release: 47
+    mergedPR: 1558
+    openPR: 7
+    closedIssue: 944
+    openIssue: 123
+    commit: 2277
+  last180d:
+    since: 2026-03-05
+    release: 84
+    mergedPR: 2165
+    openPR: 7
+    closedIssue: 1457
+    openIssue: 145
+    commit: 5233
+  last360d:
+    since: 2025-09-06
+    release: 100
+    mergedPR: 2889
+    openPR: 7
+    closedIssue: 1795
+    openIssue: 152
+    commit: 10651
