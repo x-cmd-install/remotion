@@ -1,27 +1,29 @@
 about:
-  description: 🎥      Make videos programmatically with React
+  description:
+  |
+    🎥      Make videos programmatically with React
   license: NOASSERTION
   homepage: https://remotion.dev
-  head: 0d37580
+  head: dbb2c0a
   archived: false
   latestVersion: v4.0.520
-  collectedAt: 2026-09-04T04:54:46Z
+  collectedAt: 2026-09-04T19:51:47Z
 timeline:
   created: 2020-06-23
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-09-01
 popularity:
-  star: 58245
+  star: 58310
   watcher: 174
-  fork: 4432
+  fork: 4437
   release: 679
   contributor: 385
-  pullRequest: 640
-  issue: 3823
+  pullRequest: 7044
+  issue: 3827
 language:
-  TypeScript: 43832723
+  TypeScript: 43844929
   PHP: 5730094
-  MDX: 3799529
+  MDX: 3800853
   JavaScript: 2604148
   Rust: 157166
   Python: 89780
@@ -38,37 +40,63 @@ language:
   Astro: 686
   Swift: 210
   SCSS: 206
-totalLine: 56398920
+totalBytes: 56412450
 recent:
   last30d:
     since: 2026-08-05
     release: 14
-    mergedPR: 529
-    openPR: 11
-    closedIssue: 196
-    openIssue: 35
-    commit: 1013
+    mergedPR: 536
+    openPR: 10
+    closedIssue: 198
+    openIssue: 37
+    commit: 1032
+  last60d:
+    since: 2026-07-06
+    release: 36
+    mergedPR: 1234
+    openPR: 10
+    closedIssue: 656
+    openIssue: 111
+    commit: 1860
   last90d:
     since: 2026-06-06
     release: 46
-    mergedPR: 1533
-    openPR: 11
-    closedIssue: 901
-    openIssue: 117
-    commit: 2359
+    mergedPR: 1540
+    openPR: 10
+    closedIssue: 903
+    openIssue: 119
+    commit: 2378
   last180d:
     since: 2026-03-08
     release: 83
-    mergedPR: 2192
-    openPR: 11
-    closedIssue: 1472
-    openIssue: 138
-    commit: 5315
+    mergedPR: 2199
+    openPR: 10
+    closedIssue: 1474
+    openIssue: 140
+    commit: 5334
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 2920
-    openPR: 11
-    closedIssue: 1810
-    openIssue: 145
-    commit: 10733
+    mergedPR: 2927
+    openPR: 10
+    closedIssue: 1812
+    openIssue: 147
+    commit: 10752
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 3838
+    openPR: 10
+    closedIssue: 2175
+    openIssue: 153
+    commit: 14662
+total:
+  release: 679
+  mergedPR: 6404
+  openPR: 11
+  closedIssue: 3668
+  openIssue: 159
+  commit: 35913
+---
+---
+
