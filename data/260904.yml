@@ -7,15 +7,15 @@ about:
   head: dbb2c0a
   archived: false
   latestVersion: v4.0.520
-  collectedAt: 2026-09-04T19:51:47Z
+  collectedAt: 2026-09-04T20:47:39Z
 timeline:
   created: 2020-06-23
   lastCommit: 2026-09-04
   lastRelease: 2026-09-01
 popularity:
-  star: 58310
+  star: 58317
   watcher: 174
-  fork: 4437
+  fork: 4438
   release: 679
   contributor: 385
   pullRequest: 7044
@@ -98,5 +98,138 @@ total:
   openIssue: 159
   commit: 35913
 ---
+path: /home/runner/.x-repo/github.com/remotion-dev/remotion
+collectedAt: 2026-09-04T20:49:19Z
+loc:
+  TypeScript:
+    code: 790566
+    comments: 12530
+    blanks: 55298
+    files: 6109
+  Tsx:
+    code: 288336
+    comments: 3581
+    blanks: 22778
+    files: 2625
+  JavaScript:
+    code: 83678
+    comments: 9713
+    blanks: 11252
+    files: 266
+  Json:
+    code: 51831
+    comments: 0
+    blanks: 4
+    files: 295
+  Rust:
+    code: 3902
+    comments: 87
+    blanks: 527
+    files: 25
+  Css:
+    code: 3657
+    comments: 71
+    blanks: 524
+    files: 81
+  Php:
+    code: 2517
+    comments: 635
+    blanks: 534
+    files: 12
+  Python:
+    code: 1875
+    comments: 109
+    blanks: 336
+    files: 16
+  Go:
+    code: 1190
+    comments: 44
+    blanks: 170
+    files: 9
+  Ruby:
+    code: 452
+    comments: 9
+    blanks: 50
+    files: 13
+  Jsx:
+    code: 334
+    comments: 11
+    blanks: 37
+    files: 10
+  Cpp:
+    code: 240
+    comments: 7
+    blanks: 56
+    files: 1
+  Html:
+    code: 197
+    comments: 1
+    blanks: 0
+    files: 13
+  Sh:
+    code: 161
+    comments: 16
+    blanks: 28
+    files: 6
+  Svg:
+    code: 116
+    comments: 0
+    blanks: 0
+    files: 14
+  Dockerfile:
+    code: 97
+    comments: 14
+    blanks: 28
+    files: 4
+  Yaml:
+    code: 85
+    comments: 1
+    blanks: 0
+    files: 13
+  Hcl:
+    code: 52
+    comments: 6
+    blanks: 11
+    files: 1
+  Toml:
+    code: 46
+    comments: 2
+    blanks: 4
+    files: 15
+  Nix:
+    code: 35
+    comments: 3
+    blanks: 17
+    files: 2
+  Sass:
+    code: 13
+    comments: 0
+    blanks: 2
+    files: 3
+  Swift:
+    code: 10
+    comments: 0
+    blanks: 5
+    files: 1
+  Xml:
+    code: 2
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 7215
+    blanks: 3843
+    files: 241
+  Text:
+    code: 0
+    comments: 466
+    blanks: 84
+    files: 7
+total:
+  code: 1232337
+  comments: 34604
+  blanks: 95903
+  files: 9783
 ---
 
