@@ -2,27 +2,27 @@ about:
   description: "🎥      Make videos programmatically with React"
   license: NOASSERTION
   homepage: https://remotion.dev
-  head: 670b222
+  head: 711747e
   archived: false
-  latestVersion: "v4.0.521"
-  collectedAt: 2026-09-07T05:08:35Z
+  latestVersion: "v4.0.522"
+  collectedAt: 2026-09-07T19:17:20Z
 timeline:
   created: 2020-06-23
-  lastCommit: 2026-09-06
-  lastRelease: 2026-09-05
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
 popularity:
-  star: 58490
-  watcher: 176
-  fork: 4451
-  release: 680
-  contributor: 385
-  pullRequest: 7064
-  issue: 3841
+  star: 58550
+  watcher: 177
+  fork: 4456
+  release: 681
+  contributor: 386
+  pullRequest: 7093
+  issue: 3856
 language:
-  TypeScript: 43926038
+  TypeScript: 44175409
   PHP: 5730094
-  MDX: 3803508
-  JavaScript: 2656604
+  MDX: 3829458
+  JavaScript: 2656751
   Rust: 157166
   Python: 89780
   CSS: 81015
@@ -38,87 +38,87 @@ language:
   Astro: 686
   Swift: 210
   SCSS: 206
-totalBytes: 56548670
+totalBytes: 56824138
 recent:
   last30d:
     since: 2026-08-08
-    release: 14
-    mergedPR: 506
-    openPR: 10
-    closedIssue: 197
-    openIssue: 37
-    commit: 946
+    release: 15
+    mergedPR: 527
+    openPR: 16
+    closedIssue: 208
+    openIssue: 41
+    commit: 1061
   last60d:
     since: 2026-07-09
-    release: 35
-    mergedPR: 1168
-    openPR: 10
-    closedIssue: 620
-    openIssue: 107
-    commit: 1798
+    release: 36
+    mergedPR: 1189
+    openPR: 16
+    closedIssue: 631
+    openIssue: 111
+    commit: 1913
   last90d:
     since: 2026-06-09
-    release: 46
-    mergedPR: 1522
-    openPR: 10
-    closedIssue: 886
-    openIssue: 121
-    commit: 2243
+    release: 47
+    mergedPR: 1543
+    openPR: 16
+    closedIssue: 897
+    openIssue: 125
+    commit: 2358
   last180d:
     since: 2026-03-11
-    release: 84
-    mergedPR: 2215
-    openPR: 10
-    closedIssue: 1485
-    openIssue: 142
-    commit: 5333
+    release: 85
+    mergedPR: 2236
+    openPR: 16
+    closedIssue: 1496
+    openIssue: 146
+    commit: 5448
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 2941
-    openPR: 10
-    closedIssue: 1822
-    openIssue: 149
-    commit: 10751
+    mergedPR: 2962
+    openPR: 16
+    closedIssue: 1833
+    openIssue: 153
+    commit: 10866
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 3849
-    openPR: 10
-    closedIssue: 2186
-    openIssue: 155
-    commit: 14717
+    mergedPR: 3870
+    openPR: 16
+    closedIssue: 2197
+    openIssue: 159
+    commit: 14831
 total:
-  release: 680
-  mergedPR: 6423
-  openPR: 11
-  closedIssue: 3680
-  openIssue: 161
-  commit: 35982
+  release: 681
+  mergedPR: 6444
+  openPR: 17
+  closedIssue: 3691
+  openIssue: 165
+  commit: 36096
 ---
 path: /home/runner/.x-repo/github.com/remotion-dev/remotion
-collectedAt: 2026-09-07T05:11:54Z
+collectedAt: 2026-09-07T19:20:50Z
 loc:
   TypeScript:
-    code: 791266
-    comments: 12669
-    blanks: 55358
-    files: 6125
+    code: 798091
+    comments: 12722
+    blanks: 55954
+    files: 6162
   Tsx:
-    code: 289315
-    comments: 3602
-    blanks: 22827
-    files: 2629
+    code: 290634
+    comments: 3601
+    blanks: 22882
+    files: 2638
   Json:
-    code: 85640
+    code: 85738
     comments: 0
     blanks: 4
-    files: 311
+    files: 313
   JavaScript:
-    code: 84901
+    code: 84904
     comments: 9877
-    blanks: 11343
-    files: 275
+    blanks: 11345
+    files: 276
   Rust:
     code: 3902
     comments: 87
@@ -216,24 +216,24 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 14539
-    blanks: 7047
-    files: 402
+    comments: 14550
+    blanks: 7055
+    files: 403
   Text:
     code: 0
     comments: 466
     blanks: 84
     files: 7
 total:
-  code: 1275167
-  comments: 42386
-  blanks: 99999
-  files: 10014
+  code: 1283413
+  comments: 42449
+  blanks: 100660
+  files: 10064
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:11:59+00:00
+  collectedAt: 2026-09-07T19:20:58+00:00
   platform:
     darwin/arm64:
       name:  null
