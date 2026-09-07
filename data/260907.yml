@@ -1,0 +1,267 @@
+about:
+  description: "🎥      Make videos programmatically with React"
+  license: NOASSERTION
+  homepage: https://remotion.dev
+  head: 670b222
+  archived: false
+  latestVersion: "v4.0.521"
+  collectedAt: 2026-09-07T05:08:35Z
+timeline:
+  created: 2020-06-23
+  lastCommit: 2026-09-06
+  lastRelease: 2026-09-05
+popularity:
+  star: 58490
+  watcher: 176
+  fork: 4451
+  release: 680
+  contributor: 385
+  pullRequest: 7064
+  issue: 3841
+language:
+  TypeScript: 43926038
+  PHP: 5730094
+  MDX: 3803508
+  JavaScript: 2656604
+  Rust: 157166
+  Python: 89780
+  CSS: 81015
+  Go: 48231
+  Shell: 16384
+  Ruby: 15132
+  C++: 10014
+  HTML: 5382
+  Dockerfile: 2573
+  Nix: 2460
+  HCL: 1826
+  Rich Text Format: 1361
+  Astro: 686
+  Swift: 210
+  SCSS: 206
+totalBytes: 56548670
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 14
+    mergedPR: 506
+    openPR: 10
+    closedIssue: 197
+    openIssue: 37
+    commit: 946
+  last60d:
+    since: 2026-07-09
+    release: 35
+    mergedPR: 1168
+    openPR: 10
+    closedIssue: 620
+    openIssue: 107
+    commit: 1798
+  last90d:
+    since: 2026-06-09
+    release: 46
+    mergedPR: 1522
+    openPR: 10
+    closedIssue: 886
+    openIssue: 121
+    commit: 2243
+  last180d:
+    since: 2026-03-11
+    release: 84
+    mergedPR: 2215
+    openPR: 10
+    closedIssue: 1485
+    openIssue: 142
+    commit: 5333
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 2941
+    openPR: 10
+    closedIssue: 1822
+    openIssue: 149
+    commit: 10751
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 3849
+    openPR: 10
+    closedIssue: 2186
+    openIssue: 155
+    commit: 14717
+total:
+  release: 680
+  mergedPR: 6423
+  openPR: 11
+  closedIssue: 3680
+  openIssue: 161
+  commit: 35982
+---
+path: /home/runner/.x-repo/github.com/remotion-dev/remotion
+collectedAt: 2026-09-07T05:11:54Z
+loc:
+  TypeScript:
+    code: 791266
+    comments: 12669
+    blanks: 55358
+    files: 6125
+  Tsx:
+    code: 289315
+    comments: 3602
+    blanks: 22827
+    files: 2629
+  Json:
+    code: 85640
+    comments: 0
+    blanks: 4
+    files: 311
+  JavaScript:
+    code: 84901
+    comments: 9877
+    blanks: 11343
+    files: 275
+  Rust:
+    code: 3902
+    comments: 87
+    blanks: 527
+    files: 25
+  Css:
+    code: 3657
+    comments: 71
+    blanks: 524
+    files: 81
+  Php:
+    code: 2517
+    comments: 635
+    blanks: 534
+    files: 12
+  Python:
+    code: 1875
+    comments: 109
+    blanks: 336
+    files: 16
+  Go:
+    code: 1190
+    comments: 44
+    blanks: 170
+    files: 9
+  Ruby:
+    code: 452
+    comments: 9
+    blanks: 50
+    files: 13
+  Jsx:
+    code: 334
+    comments: 11
+    blanks: 37
+    files: 10
+  Yaml:
+    code: 260
+    comments: 1
+    blanks: 0
+    files: 38
+  Cpp:
+    code: 240
+    comments: 7
+    blanks: 56
+    files: 1
+  Html:
+    code: 197
+    comments: 1
+    blanks: 0
+    files: 13
+  Sh:
+    code: 161
+    comments: 16
+    blanks: 28
+    files: 6
+  Svg:
+    code: 116
+    comments: 0
+    blanks: 0
+    files: 14
+  Dockerfile:
+    code: 97
+    comments: 14
+    blanks: 28
+    files: 4
+  Hcl:
+    code: 52
+    comments: 6
+    blanks: 11
+    files: 1
+  Toml:
+    code: 46
+    comments: 2
+    blanks: 4
+    files: 15
+  Nix:
+    code: 35
+    comments: 3
+    blanks: 17
+    files: 2
+  Sass:
+    code: 13
+    comments: 0
+    blanks: 2
+    files: 3
+  Swift:
+    code: 10
+    comments: 0
+    blanks: 5
+    files: 1
+  Xml:
+    code: 2
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 14539
+    blanks: 7047
+    files: 402
+  Text:
+    code: 0
+    comments: 466
+    blanks: 84
+    files: 7
+total:
+  code: 1275167
+  comments: 42386
+  blanks: 99999
+  files: 10014
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:11:59+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
