@@ -5,15 +5,15 @@ about:
   head: 711747e
   archived: false
   latestVersion: "v4.0.522"
-  collectedAt: 2026-09-08T02:21:50Z
+  collectedAt: 2026-09-08T05:21:52Z
 timeline:
   created: 2020-06-23
   lastCommit: 2026-09-07
   lastRelease: 2026-09-07
 popularity:
-  star: 58573
+  star: 58582
   watcher: 178
-  fork: 4458
+  fork: 4460
   release: 681
   contributor: 386
   pullRequest: 7093
@@ -97,7 +97,7 @@ total:
   commit: 36096
 ---
 path: /home/runner/.x-repo/github.com/remotion-dev/remotion
-collectedAt: 2026-09-08T02:26:54Z
+collectedAt: 2026-09-08T05:24:46Z
 loc:
   TypeScript:
     code: 798091
