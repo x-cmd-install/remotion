@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.0.523"
   latestRelease: "v4.0.523"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T23:53:58Z
+  collectedAt: 2026-09-11T05:13:59Z
 timeline:
   created: 2020-06-23
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 58861
+  star: 58882
   watcher: 179
-  fork: 4488
+  fork: 4489
   release: 682
   contributor: 388
   pullRequest: 7154
@@ -45,31 +45,31 @@ language:
 totalBytes: 57273960
 recent:
   last30d:
-    since: 2026-08-11
-    release: 16
-    mergedPR: 544
+    since: 2026-08-12
+    release: 15
+    mergedPR: 520
     openPR: 8
-    closedIssue: 219
-    openIssue: 34
+    closedIssue: 203
+    openIssue: 30
     commit: 1342
   last60d:
-    since: 2026-07-12
-    release: 35
-    mergedPR: 1213
+    since: 2026-07-13
+    release: 34
+    mergedPR: 1211
     openPR: 8
-    closedIssue: 633
+    closedIssue: 630
     openIssue: 102
     commit: 2191
   last90d:
-    since: 2026-06-12
-    release: 47
-    mergedPR: 1563
+    since: 2026-06-13
+    release: 46
+    mergedPR: 1544
     openPR: 8
-    closedIssue: 880
-    openIssue: 117
+    closedIssue: 860
+    openIssue: 115
     commit: 2636
   last180d:
-    since: 2026-03-14
+    since: 2026-03-15
     release: 85
     mergedPR: 2296
     openPR: 8
@@ -77,21 +77,21 @@ recent:
     openIssue: 137
     commit: 5726
   last360d:
-    since: 2025-09-15
+    since: 2025-09-16
     release: 100
-    mergedPR: 3021
+    mergedPR: 3020
     openPR: 8
     closedIssue: 1860
     openIssue: 144
     commit: 11144
   last720d:
-    since: 2024-09-20
+    since: 2024-09-21
     release: 100
     mergedPR: 3927
     openPR: 8
     closedIssue: 2225
     openIssue: 149
-    commit: 15097
+    commit: 15094
 total:
   release: 682
   mergedPR: 6506
@@ -101,7 +101,7 @@ total:
   commit: 36383
 ---
 path: /home/runner/.x-repo/github.com/remotion-dev/remotion
-collectedAt: 2026-09-10T23:56:48Z
+collectedAt: 2026-09-11T05:17:19Z
 loc:
   TypeScript:
     code: 803114
