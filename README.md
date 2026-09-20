@@ -4,7 +4,7 @@
 
 🎥      Make videos programmatically with React
 
-![remotion](https://repo.x-cmd.io/remotion.svg)
+[![x-cmd/install — remotion Code Quality Monitoring Repo Card](https://repo.x-cmd.io/remotion.svg)](https://x-cmd.com/install/remotion)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install remotion
 
 ## Code insight
 
-Total: **1,367,047** lines of code across **9603** files in the top 5 languages.
+Total: **1,373,058** lines of code across **9650** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 874,424 | 12,807 | 57,840 | 6243 |
-| Tsx | 306,697 | 3,677 | 23,832 | 2743 |
-| Json | 85,768 | 0 | 4 | 313 |
-| JavaScript | 84,956 | 9,882 | 11,351 | 279 |
+| TypeScript | 877,886 | 12,835 | 58,049 | 6277 |
+| Tsx | 309,045 | 3,697 | 23,992 | 2751 |
+| Json | 85,888 | 0 | 4 | 316 |
+| JavaScript | 84,987 | 9,884 | 11,354 | 281 |
 | Rust | 3,902 | 87 | 527 | 25 |
 
 ## Source
@@ -33,26 +33,26 @@ Total: **1,367,047** lines of code across **9603** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.0.526` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 59,633 · **Forks**: 4,571 · **Open issues**: 3,947 · **Contributors**: 393
+- **Stars**: 59,798 · **Forks**: 4,587 · **Open issues**: 3,957 · **Contributors**: 394
 
 ## Totals (cumulative)
 
-- **Releases**: 685 · **Merged PRs**: 6608 · **Open PRs**: 11 · **Closed issues**: 3776 · **Open issues**: 171 · **Commits**: 36739
+- **Releases**: 685 · **Merged PRs**: 6627 · **Open PRs**: 13 · **Closed issues**: 3791 · **Open issues**: 166 · **Commits**: 36807
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 13 | 509 | 10 | 189 | 51 | 1566 |
-| last60d | 2026-07-20 | 32 | 1163 | 10 | 574 | 106 | 2415 |
-| 90d | 2026-06-20 | 45 | 1556 | 10 | 838 | 131 | 2969 |
-| last180d | 2026-03-22 | 86 | 2372 | 10 | 1559 | 154 | 5995 |
-| 360d | 2025-09-23 | 100 | 3111 | 10 | 1912 | 161 | 11466 |
-| last720d | 2024-09-28 | 100 | 4015 | 10 | 2277 | 165 | 15369 |
+| 30d | 2026-08-21 | 12 | 436 | 12 | 181 | 49 | 1220 |
+| last60d | 2026-07-22 | 30 | 1136 | 12 | 549 | 96 | 2296 |
+| 90d | 2026-06-22 | 45 | 1558 | 12 | 844 | 126 | 2949 |
+| last180d | 2026-03-24 | 86 | 2386 | 12 | 1576 | 149 | 5986 |
+| 360d | 2025-09-25 | 100 | 3121 | 12 | 1928 | 156 | 11428 |
+| last720d | 2024-09-30 | 100 | 4032 | 12 | 2292 | 160 | 15421 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for remotion lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:24:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:44:58Z._
