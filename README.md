@@ -14,13 +14,13 @@ x install remotion
 
 ## Code insight
 
-Total: **1,381,986** lines of code across **9717** files in the top 5 languages.
+Total: **1,394,047** lines of code across **9761** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 881,756 | 12,860 | 58,096 | 6325 |
-| Tsx | 314,069 | 3,710 | 24,090 | 2770 |
-| Json | 85,903 | 0 | 4 | 316 |
+| TypeScript | 886,285 | 12,999 | 58,283 | 6349 |
+| Tsx | 321,596 | 3,755 | 24,284 | 2790 |
+| Json | 85,908 | 0 | 4 | 316 |
 | JavaScript | 84,987 | 9,884 | 11,354 | 281 |
 | Rust | 3,902 | 87 | 527 | 25 |
 
@@ -33,26 +33,26 @@ Total: **1,381,986** lines of code across **9717** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.0.527` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
-- **Stars**: 60,087 · **Forks**: 4,630 · **Open issues**: 3,976 · **Contributors**: 395
+- **Stars**: 60,201 · **Forks**: 4,643 · **Open issues**: 3,986 · **Contributors**: 396
 
 ## Totals (cumulative)
 
-- **Releases**: 686 · **Merged PRs**: 6671 · **Open PRs**: 20 · **Closed issues**: 3804 · **Open issues**: 172 · **Commits**: 36987
+- **Releases**: 686 · **Merged PRs**: 6703 · **Open PRs**: 17 · **Closed issues**: 3814 · **Open issues**: 172 · **Commits**: 37123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 12 | 428 | 19 | 176 | 54 | 1386 |
-| last60d | 2026-07-25 | 28 | 1100 | 19 | 483 | 83 | 2462 |
-| 90d | 2026-06-25 | 45 | 1576 | 19 | 851 | 131 | 3115 |
-| last180d | 2026-03-27 | 84 | 2423 | 19 | 1586 | 155 | 6152 |
-| 360d | 2025-09-28 | 100 | 3161 | 19 | 1940 | 162 | 11594 |
-| last720d | 2024-10-03 | 100 | 4065 | 19 | 2300 | 166 | 15545 |
+| 30d | 2026-08-25 | 11 | 432 | 16 | 183 | 53 | 1518 |
+| last60d | 2026-07-26 | 28 | 1121 | 16 | 479 | 81 | 2594 |
+| 90d | 2026-06-26 | 44 | 1591 | 16 | 850 | 131 | 3247 |
+| last180d | 2026-03-28 | 84 | 2455 | 16 | 1596 | 155 | 6284 |
+| 360d | 2025-09-29 | 100 | 3191 | 16 | 1950 | 162 | 11726 |
+| last720d | 2024-10-04 | 100 | 4091 | 16 | 2308 | 166 | 15644 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for remotion lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:43:36Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:16:42Z._
