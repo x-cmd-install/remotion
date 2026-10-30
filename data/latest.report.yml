@@ -2,39 +2,41 @@ about:
   description: "🎥      Make videos programmatically with React"
   license: NOASSERTION
   homepage: https://remotion.dev
-  head: 4725fad
+  head: 3b7e700
   archived: false
   latestVersion: "v4.0.539"
   latestRelease: "v4.0.539"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:30:30Z
+  collectedAt: 2026-10-30T06:11:59Z
 timeline:
   created: 2020-06-23
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 2026-10-26
   lastRelease: 2026-10-26
   lastPrerelease: 
 popularity:
-  star: 68700
-  watcher: 192
-  fork: 5604
+  star: 68956
+  watcher: 193
+  fork: 5641
   release: 698
-  contributor: 433
-  pullRequest: 8184
-  issue: 4260
+  contributor: 437
+  pullRequest: 8217
+  issue: 4354
 language:
-  TypeScript: 53905831
-  PHP: 5740337
-  MDX: 4367526
-  JavaScript: 2666504
-  Shell: 174443
-  Rust: 157963
-  Python: 139216
+  TypeScript: 54464102
+  Rust: 7091643
+  PHP: 5740846
+  MDX: 4435574
+  JavaScript: 2731930
+  RenderScript: 977259
+  Shell: 174143
+  Python: 163204
+  C: 114307
   CSS: 97075
-  Go: 57977
-  Ruby: 18649
+  Go: 58477
+  Ruby: 18829
   HTML: 12991
-  Dockerfile: 11048
+  Dockerfile: 12142
   C++: 10014
   Nix: 2460
   HCL: 1826
@@ -42,127 +44,132 @@ language:
   Astro: 686
   Swift: 210
   SCSS: 206
-totalBytes: 67366323
+totalBytes: 76109285
 recent:
   last30d:
-    since: 2026-09-29
-    release: 10
-    mergedPR: 557
-    openPR: 41
-    closedIssue: 144
-    openIssue: 44
-    commit: 1934
+    since: 2026-09-30
+    release: 9
+    mergedPR: 576
+    openPR: 21
+    closedIssue: 240
+    openIssue: 34
+    commit: 2120
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 21
-    mergedPR: 1073
-    openPR: 44
-    closedIssue: 381
-    openIssue: 81
-    commit: 3760
+    mergedPR: 1093
+    openPR: 23
+    closedIssue: 471
+    openIssue: 70
+    commit: 3946
   last90d:
-    since: 2026-07-31
-    release: 37
-    mergedPR: 1642
-    openPR: 44
-    closedIssue: 606
-    openIssue: 95
-    commit: 4868
+    since: 2026-08-01
+    release: 36
+    mergedPR: 1684
+    openPR: 23
+    closedIssue: 709
+    openIssue: 84
+    commit: 5054
   last180d:
-    since: 2026-05-02
-    release: 83
-    mergedPR: 3004
-    openPR: 44
-    closedIssue: 1761
-    openIssue: 154
-    commit: 7886
+    since: 2026-05-03
+    release: 82
+    mergedPR: 3044
+    openPR: 23
+    closedIssue: 1862
+    openIssue: 143
+    commit: 8072
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
-    mergedPR: 3764
-    openPR: 44
-    closedIssue: 2146
-    openIssue: 166
-    commit: 13233
+    mergedPR: 3805
+    openPR: 23
+    closedIssue: 2249
+    openIssue: 153
+    commit: 13419
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 4700
-    openPR: 44
-    closedIssue: 2546
-    openIssue: 167
-    commit: 17957
+    mergedPR: 4745
+    openPR: 23
+    closedIssue: 2652
+    openIssue: 155
+    commit: 18102
 total:
   release: 698
-  mergedPR: 7407
-  openPR: 45
-  closedIssue: 4088
-  openIssue: 172
-  commit: 39963
+  mergedPR: 7452
+  openPR: 24
+  closedIssue: 4194
+  openIssue: 160
+  commit: 40146
 ---
 path: /home/runner/.x-repo/github.com/remotion-dev/remotion
-collectedAt: 2026-10-29T06:33:17Z
+collectedAt: 2026-10-30T06:15:00Z
 loc:
   TypeScript:
-    code: 951124
-    comments: 15099
-    blanks: 62177
-    files: 6656
+    code: 967067
+    comments: 15359
+    blanks: 62747
+    files: 6750
   Tsx:
-    code: 415763
-    comments: 4650
-    blanks: 27117
-    files: 3152
+    code: 417767
+    comments: 4694
+    blanks: 27249
+    files: 3167
+  Rust:
+    code: 118328
+    comments: 226
+    blanks: 2964
+    files: 185
+  JavaScript:
+    code: 87673
+    comments: 9936
+    blanks: 11604
+    files: 307
   Json:
-    code: 86591
+    code: 86764
     comments: 0
     blanks: 3
-    files: 317
-  JavaScript:
-    code: 85305
-    comments: 9909
-    blanks: 11366
-    files: 284
+    files: 318
   Css:
     code: 4297
     comments: 85
     blanks: 620
     files: 85
-  Rust:
-    code: 3911
-    comments: 94
-    blanks: 527
-    files: 25
+  Python:
+    code: 3218
+    comments: 133
+    blanks: 447
+    files: 23
   Sh:
     code: 2973
     comments: 716
     blanks: 475
     files: 28
   Php:
-    code: 2757
+    code: 2769
     comments: 663
-    blanks: 580
+    blanks: 582
     files: 16
-  Python:
-    code: 2645
-    comments: 128
-    blanks: 392
-    files: 22
   Go:
-    code: 1355
+    code: 1363
     comments: 62
-    blanks: 182
+    blanks: 183
     files: 10
+  CHeader:
+    code: 1119
+    comments: 1067
+    blanks: 407
+    files: 3
   Ruby:
-    code: 517
+    code: 521
     comments: 29
     blanks: 61
     files: 15
   Dockerfile:
-    code: 344
+    code: 366
     comments: 66
-    blanks: 49
-    files: 8
+    blanks: 51
+    files: 9
   Html:
     code: 277
     comments: 1
@@ -173,6 +180,11 @@ loc:
     comments: 1
     blanks: 0
     files: 39
+  Toml:
+    code: 262
+    comments: 23
+    blanks: 41
+    files: 20
   Cpp:
     code: 240
     comments: 7
@@ -188,11 +200,6 @@ loc:
     comments: 6
     blanks: 11
     files: 1
-  Toml:
-    code: 50
-    comments: 2
-    blanks: 4
-    files: 17
   Jsx:
     code: 44
     comments: 0
@@ -225,19 +232,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 16423
-    blanks: 7621
-    files: 430
+    comments: 16619
+    blanks: 7708
+    files: 436
   Text:
     code: 0
     comments: 1114
     blanks: 208
     files: 16
 total:
-  code: 1568401
-  comments: 49272
-  blanks: 112547
-  files: 11176
+  code: 1705256
+  comments: 51039
+  blanks: 116517
+  files: 11483
 ---
 
 ---
