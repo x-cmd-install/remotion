@@ -2,31 +2,31 @@ about:
   description: "🎥      Make videos programmatically with React"
   license: NOASSERTION
   homepage: https://remotion.dev
-  head: 19e4da7
+  head: 1c5dc59
   archived: false
   latestVersion: "v4.0.547"
   latestRelease: "v4.0.547"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:17:45Z
+  collectedAt: 2026-11-28T08:23:32Z
 timeline:
   created: 2020-06-23
-  lastCommit: 2026-11-26
+  lastCommit: 2026-11-27
   lastVersion: 2026-11-24
   lastRelease: 2026-11-24
   lastPrerelease: 
 popularity:
-  star: 76049
-  watcher: 204
-  fork: 6523
+  star: 76237
+  watcher: 205
+  fork: 6544
   release: 706
-  contributor: 467
-  pullRequest: 8827
-  issue: 4547
+  contributor: 468
+  pullRequest: 8839
+  issue: 4549
 language:
-  TypeScript: 58033799
+  TypeScript: 58116489
   Rust: 7091643
   PHP: 5745252
-  MDX: 4762757
+  MDX: 4770151
   JavaScript: 2677614
   RenderScript: 977259
   Python: 181456
@@ -45,77 +45,77 @@ language:
   Astro: 686
   Swift: 210
   SCSS: 206
-totalBytes: 80029032
+totalBytes: 80119116
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 8
-    mergedPR: 539
-    openPR: 27
-    closedIssue: 243
+    mergedPR: 516
+    openPR: 24
+    closedIssue: 151
     openIssue: 44
-    commit: 2245
+    commit: 2294
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 18
-    mergedPR: 1153
-    openPR: 28
-    closedIssue: 425
-    openIssue: 60
-    commit: 4432
+    mergedPR: 1130
+    openPR: 27
+    closedIssue: 418
+    openIssue: 59
+    commit: 4481
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 29
-    mergedPR: 1639
-    openPR: 28
-    closedIssue: 664
+    mergedPR: 1646
+    openPR: 27
+    closedIssue: 665
     openIssue: 86
-    commit: 6320
+    commit: 6369
   last180d:
-    since: 2026-05-31
-    release: 77
-    mergedPR: 3241
-    openPR: 28
-    closedIssue: 1756
-    openIssue: 140
-    commit: 8932
+    since: 2026-06-01
+    release: 76
+    mergedPR: 3215
+    openPR: 27
+    closedIssue: 1704
+    openIssue: 139
+    commit: 8981
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
     mergedPR: 4260
-    openPR: 28
-    closedIssue: 2423
+    openPR: 27
+    closedIssue: 2422
     openIssue: 151
-    commit: 15257
+    commit: 15306
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
-    mergedPR: 5191
-    openPR: 28
+    mergedPR: 5200
+    openPR: 27
     closedIssue: 2805
     openIssue: 152
-    commit: 19980
+    commit: 20024
 total:
   release: 706
-  mergedPR: 7968
-  openPR: 29
-  closedIssue: 4393
+  mergedPR: 7978
+  openPR: 28
+  closedIssue: 4395
   openIssue: 154
-  commit: 42515
+  commit: 42564
 ---
 path: /home/runner/.x-repo/github.com/remotion-dev/remotion
-collectedAt: 2026-11-27T09:30:31Z
+collectedAt: 2026-11-28T08:26:10Z
 loc:
   TypeScript:
-    code: 1023691
-    comments: 15829
-    blanks: 65918
+    code: 1024313
+    comments: 15835
+    blanks: 65929
     files: 7008
   Tsx:
-    code: 481993
-    comments: 4914
-    blanks: 29200
-    files: 3457
+    code: 484621
+    comments: 4917
+    blanks: 29333
+    files: 3468
   Rust:
     code: 118328
     comments: 226
@@ -127,7 +127,7 @@ loc:
     blanks: 11520
     files: 302
   Json:
-    code: 47022
+    code: 47028
     comments: 0
     blanks: 3
     files: 316
@@ -192,10 +192,10 @@ loc:
     blanks: 56
     files: 1
   Svg:
-    code: 164
+    code: 219
     comments: 0
-    blanks: 0
-    files: 27
+    blanks: 7
+    files: 29
   Yaml:
     code: 99
     comments: 1
@@ -238,7 +238,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 10458
+    comments: 10450
     blanks: 5058
     files: 295
   Text:
@@ -247,10 +247,10 @@ loc:
     blanks: 239
     files: 19
 total:
-  code: 1780736
-  comments: 45625
-  blanks: 118364
-  files: 11875
+  code: 1784035
+  comments: 45626
+  blanks: 118519
+  files: 11888
 ---
 
 ---
